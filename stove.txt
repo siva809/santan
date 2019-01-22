@@ -1,2 +1,3 @@
-stove costs 1100
+
+stove costs 11100
 
